@@ -10,6 +10,6 @@ In this capstone project, we predict if the Falcon 9 first stage will land succe
 8) **Interactive Dashboard with Ploty Dash**:<br> g_capstone_plotlydash.py
 9) **Machine Learning Prediction**:<br> h_SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb
 
-The project and the outcomes of the above tasks are presented as a powerpoint presentation (saved in pdf format) in the file ds-capstone-template-coursera1.pdf
+The project and the outcomes of the above tasks are presented as a powerpoint presentation (saved in pdf format) in the file:<br>  ds-capstone-template-coursera1.pdf
 
    
